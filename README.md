@@ -3,24 +3,72 @@
 ## Register Number:
 ## Name:
 ## Problem Title
-SIH 1653: Web based Selector-Applicant Simulation Software
+SIH 1653: Research and Redesign a Conventional Aerospace Component
 ## Problem Description
-Background: Recruitment and Assessment Centre (RAC) under DRDO, Ministry of Defence carries out interviews for applications received against advertised vacancies and for promotion to next higher grade for scientific manpower inducted within DRDO. Description: The process of interviewing is a challenging task. An unbiased objective interviewing process helps identify the right talent. The basic process of an interview involves posing a set of questions by an interviewer and thereafter evaluating responses from candidates. Thus, the questions asked should be relevant and match the area/ expertise of the applicant and the responses should also be of relevance w.r.t. the question asked. Expected Solution: The proposed solution should provide experts as well as candidates a real life Board Room experience, starting with initial ice-breaking questions leading to in-depth techno-managerial (depending on the level of candidate) questions. It shall also be able to provide a quantifiable score for experts as well as the candidate for the relevancy of questions w.r.t. the area/ expertise of the applicant. Similarly, candidate responses should also be graded for relevancy w.r.t. the question asked, finally assisting in arriving at an overall score for the subject knowledge of the candidate and thus his/ her suitability against the advertised post.
+In modern aerospace engineering, several components have remained largely unchanged for decades. These legacy components, while proven, may not leverage the latest advancements in materials science, computational modeling, AI, or manufacturing techniques (like additive manufacturing). The goal is to select a conventional aerospace component, research its limitations, and redesign it to make it:
 
 ## Problem Creater's Organization
-Ministry of Defence
-
-## Idea
+This problem is conceptualized for the Smart India Hackathon 2025 by the Ministry of Civil Aviation, in collaboration with leading aerospace research institutions and industry partners.
 
 
 ## Proposed Solution / Architecture Diagram
-
+The project aims to develop an AI-Optimized, Additively Manufactured Turbine Blade incorporating advanced materials and real-time monitoring capabilities.​
 
 ## Use Cases
+1)Enhanced Engine Performance:
+
+Description: Integrating optimized turbine blades to improve fuel efficiency and thrust output.​
+
+Benefit: Reduction in operational costs and environmental impact.​
+
+2)Extended Component Lifespan:
+
+Description: Utilizing advanced materials and cooling designs to prolong the service life of turbine blades.​
+
+Benefit: Lower maintenance and replacement expenses.​
+
+3)Real-Time Monitoring:
+
+Description: Embedding sensors to continuously assess the health of turbine blades during operation.​
+
+Benefit: Early detection of anomalies, enabling proactive maintenance.
+
 
 
 ## Technology Stack
+1) Design & Simulation:
+
+Tools: ANSYS, Siemens NX, Altair OptiStruct​
+
+Purpose: Perform structural and thermal analyses, and optimize design topology.​
+
+2) AI & Machine Learning:
+
+Frameworks: TensorFlow, PyTorch, MATLAB​
+
+Purpose: Develop algorithms for design optimization and predictive maintenance analytics.​
+
+3) Additive Manufacturing:
+
+Technologies: Direct Metal Laser Sintering (DMLS), Selective Laser Melting (SLM)​
+
+Purpose: Fabricate complex blade geometries with internal cooling channels.​
+
+4) Material Science:
+
+Databases: JMatPro, MatWeb​
+
+Purpose: Select materials with optimal thermal and mechanical properties.​
+
+5) Embedded Systems:
+
+Platforms: Arduino, Raspberry Pi​
+
+Purpose: Integrate sensors for real-time monitoring and data collection.​
+
+
 
 
 ## Dependencies
+Hardware,sofeware
 
