@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:12.04.0225
+## Register Number:212224230310
+## Name:Yaswanth kumar A.S
 ## Problem Title
 SIH 1653: Research and Redesign a Conventional Aerospace Component
 ## Problem Description
